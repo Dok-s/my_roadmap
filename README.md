@@ -13,11 +13,11 @@ My roadmap to study Python Backend Developer
 | [Otus](https://otus.ru/lessons/python-basic/?int_source=courses_catalog&int_term=programming) | Python Developer. Basic | *In Progress* |
 | [Otus](https://otus.ru/lessons/python-professional/?int_source=courses_catalog&int_term=programming) | Python Developer. Professional | *In Progress* |
 | [Otus](https://otus.ru/lessons/webpython/?int_source=courses_catalog&int_term=programming) | Web-разработчик на Python | *In Progress* |
-| [Stepik](https://stepik.org/course/67) | Программирование на Python  | [Sertificate](/Users/serj/Documents/Github_python_repo/my_roadmap/Certificates/Stepik/Python_programming.pdf) |
-| [Stepik](https://stepik.org/course/58852) | "Поколение Python": курс для начинающих  | [Sertificate](/Users/serj/Documents/Github_python_repo/my_roadmap/Certificates/Stepik/Generation_Python_course_for_beginners.pdf) |
+| [Stepik](https://stepik.org/course/67) | Программирование на Python  | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/Python_programming.pdf) |
+| [Stepik](https://stepik.org/course/58852) | "Поколение Python": курс для начинающих  | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/Generation_Python_course_for_beginners.pdf) |
 | [Stepik](https://stepik.org/course/63085) | Инди-курс программирования на Python от egoroff_channel | **Completed** |
 | [Stepik](https://stepik.org/course/72969/syllabus) | ООП на Python от egoroff_channel | **Completed** |
-| [Udemy](www.udemy.com/course/bestpython/learn/lecture/17327938) | Полное руководство по Python 3: от новичка до специалиста | [Sertificate](/Users/serj/Desktop/my_roadmap/Сertificates/Udemy/python_udemy.pdf)
+| [Udemy](www.udemy.com/course/bestpython/learn/lecture/17327938) | Полное руководство по Python 3: от новичка до специалиста | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Udemy/Guide_to_Python_3.pdf) |
 
 ### Django
 #### Courses
@@ -30,8 +30,8 @@ My roadmap to study Python Backend Developer
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Otus](https://otus.ru/lessons/postgresql/?int_source=courses_catalog&int_term=programming) | PostgreSQL | *In Progress* |
-| [Udemy](https://www.udemy.com/course/bestpostgres/) | Практический курс для новичков по SQL и PostgreSQL | [Sertificate](/Users/serj/Documents/Github_python_repo/my_roadmap/Certificates/Udemy/Guide_to_Python_3.pdf) |
-| [LearnDB](https://learndb.ru) | Интерактивные онлайн-курсы по SQL СУБД PostgreSQL | [Sertificate](/Users/serj/Documents/Github_python_repo/my_roadmap/Certificates/Learndb/PostgreSQL_learnDB.pdf) |
+| [Udemy](https://www.udemy.com/course/bestpostgres/) | Практический курс для новичков по SQL и PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Udemy/Practice_course_SQL_PostgreSQL.pdf) |
+| [LearnDB](https://learndb.ru) | Интерактивные онлайн-курсы по SQL СУБД PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Learndb/PostgreSQL_learnDB.pdf) |
 | [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | *In Progress* |
 | [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | *In Progress* |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | *In Progress* |
@@ -51,7 +51,7 @@ My roadmap to study Python Backend Developer
 #### Courses
 | URL | Title | Status |
 | --- | :---: | :---: |
-| [Stepik](https://stepik.org/course/3145) | Основы Git | [Sertificate](/Users/serj/Documents/Github_python_repo/my_roadmap/Certificates/Stepik/Git_basics.pdf) |
+| [Stepik](https://stepik.org/course/3145) | Основы Git | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/Git_basics.pdf) |
 | [Udemy](https://www.udemy.com/course/git-alishev/) | Git: Полный курс для начинающих и не только | *In Progress* |
 
 ### Virtualization
