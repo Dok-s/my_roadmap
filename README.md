@@ -32,8 +32,6 @@ My roadmap to study Python Backend Developer
 | [Otus](https://otus.ru/lessons/postgresql/?int_source=courses_catalog&int_term=programming) | PostgreSQL | *In Progress* |
 | [Udemy](https://www.udemy.com/course/bestpostgres/) | Практический курс для новичков по SQL и PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Udemy/Practice_course_SQL_PostgreSQL.pdf) |
 | [LearnDB](https://learndb.ru) | Интерактивные онлайн-курсы по SQL СУБД PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Learndb/PostgreSQL_learnDB.pdf) |
-| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals | *In Progress* |
-| [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals | *In Progress* |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | *In Progress* |
 
 ### Algorithms & Data Structures
@@ -52,7 +50,7 @@ My roadmap to study Python Backend Developer
 | URL | Title | Status |
 | --- | :---: | :---: |
 | [Stepik](https://stepik.org/course/3145) | Основы Git | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/Git_basics.pdf) |
-| [Udemy](https://www.udemy.com/course/git-alishev/) | Git: Полный курс для начинающих и не только | *In Progress* |
+| [Udemy](https://www.udemy.com/course/git-alishev/) | Git: Полный курс для начинающих и не только | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Udemy/Git_udemy.pdf) |
 
 ### Virtualization
 #### Books
