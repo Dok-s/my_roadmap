@@ -33,6 +33,14 @@ My roadmap to study Python Backend Developer
 | [Udemy](https://www.udemy.com/course/bestpostgres/) | Практический курс для новичков по SQL и PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Udemy/Practice_course_SQL_PostgreSQL.pdf) |
 | [LearnDB](https://learndb.ru) | Интерактивные онлайн-курсы по SQL СУБД PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Learndb/PostgreSQL_learnDB.pdf) |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | *In Progress* |
+| [PostgresPRO](https://postgrespro.ru/education/courses/DEV1) | DEV1. Разработка серверной части приложений PostgreSQL. Базовый курс | **In Progress** |
+| [PostgresPRO](https://postgrespro.ru/education/courses/DEV2) | DEV2. Разработка серверной части приложений PostgreSQL. Расширенный курс | **In Progress** |
+| [PostgresPRO](https://postgrespro.ru/education/courses/QPT) | QPT. Оптимизация запросов | **In Progress** |
+| [SQL-ex](https://sql-ex.ru) | Practical skills of SQL language | **In Progress** |
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| PostgreSQL. Основы языка SQL | Е.П. Моргунов | **Completed** |
 
 ### Algorithms & Data Structures
 #### Courses
@@ -56,7 +64,7 @@ My roadmap to study Python Backend Developer
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Использование Docker | Эдриен Моуэт | *In Progress* |
+| Использование Docker | Эдриен Моуэт | **In Progress** |
 
 ## Soft Skills
 #### Courses
