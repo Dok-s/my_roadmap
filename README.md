@@ -15,7 +15,7 @@ My roadmap to study Python Backend Developer
 | [Otus](https://otus.ru/lessons/webpython/?int_source=courses_catalog&int_term=programming) | Web-разработчик на Python | *In Progress* |
 | [Stepik](https://stepik.org/course/67) | Программирование на Python  | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/Python_programming.pdf) |
 | [Stepik](https://stepik.org/course/58852) | "Поколение Python": курс для начинающих  | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/Generation_Python_course_for_beginners.pdf) |
-| [Stepik](https://stepik.org/course/63085) | Инди-курс программирования на Python от egoroff_channel | **Completed** |
+| [Stepik](https://stepik.org/course/63085) | Инди-курс программирования на Python от egoroff_channel | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/python_indi_stepik.pdf) |
 | [Stepik](https://stepik.org/course/72969/syllabus) | ООП на Python от egoroff_channel | **Completed** |
 | [Udemy](www.udemy.com/course/bestpython/learn/lecture/17327938) | Полное руководство по Python 3: от новичка до специалиста | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Udemy/Guide_to_Python_3.pdf) |
 
@@ -32,7 +32,7 @@ My roadmap to study Python Backend Developer
 | [Otus](https://otus.ru/lessons/postgresql/?int_source=courses_catalog&int_term=programming) | PostgreSQL | *In Progress* |
 | [Udemy](https://www.udemy.com/course/bestpostgres/) | Практический курс для новичков по SQL и PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Udemy/Practice_course_SQL_PostgreSQL.pdf) |
 | [LearnDB](https://learndb.ru) | Интерактивные онлайн-курсы по SQL СУБД PostgreSQL | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Learndb/PostgreSQL_learnDB.pdf) |
-| [Stepik](https://stepik.org/course/551) | Введение в базы данных | *In Progress* |
+| [Stepik](https://stepik.org/course/551) | Введение в базы данных | [Sertificate](https://github.com/Dok-s/my_roadmap/blob/main/Certificates/Stepik/sql_insql_stepik.pdf) |
 | [PostgresPRO](https://postgrespro.ru/education/courses/DEV1) | DEV1. Разработка серверной части приложений PostgreSQL. Базовый курс | **In Progress** |
 | [PostgresPRO](https://postgrespro.ru/education/courses/DEV2) | DEV2. Разработка серверной части приложений PostgreSQL. Расширенный курс | **In Progress** |
 | [PostgresPRO](https://postgrespro.ru/education/courses/QPT) | QPT. Оптимизация запросов | **In Progress** |
